@@ -1,5 +1,5 @@
 # OpenGL-Animation
-Animation of an insect-like model. Can play a full walking animation, in addition to rotating it around the y and x-axis and rotating some select joints.
+Animation of an insect-like model. Can play a full walking animation, in addition to rotating it around the y, z, and x-axis and rotating some select joints.
 
 # Important
 You must have proper OpenGL software to compile and run. Additionally, freeglut.dll (created upon compilation) must be copied to localDisc/SysWoW64.
